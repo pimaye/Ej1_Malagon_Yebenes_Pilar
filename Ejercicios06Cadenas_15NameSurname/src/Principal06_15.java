@@ -5,7 +5,11 @@ devuelva en formato «Apellidos, Iniciales». Ejemplo:
  Entrada -> Juan Francisco García Ruiz 
  Salida -> García Ruiz, J. F. */
 
-
+/**
+ * Funcion principal
+ * @author Usuario
+ *
+ */
 
 public class Principal06_15 {
 
