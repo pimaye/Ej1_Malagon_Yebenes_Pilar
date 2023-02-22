@@ -68,6 +68,8 @@ Scanner entrada = new Scanner(System.in);
 		System.out.println("Solo el nombre es, porque los apellido se han quitado"
 				+ " con el substring: " + sCadena);
 		
+		//Cerrar la consola
+		
 		entrada.close();
 		
 		
